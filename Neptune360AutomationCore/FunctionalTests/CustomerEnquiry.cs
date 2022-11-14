@@ -4617,7 +4617,10 @@ namespace Neptune360UIAutomation
             }
         }
         // <summary>
+        /// Test Method to Asset Configuration_Meter Size_List_1 1/2 <summary>
         /// Test Method to Asset Configuration_Meter Size_List_1 1/2
+        /// </summary>
+        [Category(".netcore")]
         [Category("CustomerEnquiry")]
         [Category("RegressionTests2")]
         [Test]
