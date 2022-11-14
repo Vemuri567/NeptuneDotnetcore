@@ -70,6 +70,7 @@ namespace Neptune360UIAutomation
         [OneTimeSetUp]
         protected void Setup()
         {
+            Console.WriteLine("testcase started");
             if (qTestFlag.ToUpper() == "N" && initReport != true)
             {
                 ReporterFactory.AttachReport();
@@ -77,9 +78,11 @@ namespace Neptune360UIAutomation
             }
             try
             {
+                Console.WriteLine("testcase started");
                 string[] files = Directory.GetFiles(AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "") + "Results");
                 foreach (string file in files)
                 {
+                    Console.WriteLine("testcase started");
                     if (file.Contains(".zip") || file.Contains(".html"))
                     {
                         File.Delete(file);
