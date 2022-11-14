@@ -1,0 +1,370 @@
+==============Error in http GET request=======08-20-2022 01:00:59========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/30516666
+Auth Header:bearer 8d0096cc-5b76-49e9-ae59-bea3b90f0b5c
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-20-2022 01:18:19========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 0797bd3f-eece-407a-903c-24abf76a1bff
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-20-2022 01:20:05========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 0797bd3f-eece-407a-903c-24abf76a1bff
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-20-2022 03:30:10========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 5bb03a3e-98df-401c-a4e8-811b2bbb27e7
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-20-2022 03:30:12========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 5bb03a3e-98df-401c-a4e8-811b2bbb27e7
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-20-2022 03:30:14========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 5bb03a3e-98df-401c-a4e8-811b2bbb27e7
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-20-2022 03:30:16========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 5bb03a3e-98df-401c-a4e8-811b2bbb27e7
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-20-2022 03:30:18========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 5bb03a3e-98df-401c-a4e8-811b2bbb27e7
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http POST request=======08-20-2022 03:34:03=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 30ebf967-17cf-4727-9cf5-69de870dd88c
+Json Content:{"name":"Reports - Productivity - Table Settings - Modify Column Visibility - Select All","test_case":{"id":52825632}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 03:34:03=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 03:42:36=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 66bd7ceb-9fe2-48b0-8507-ec192acbaf30
+Json Content:{"name":"Reports - Tamper - Select Group Filter - Display","test_case":{"id":52877852}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 03:42:36=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 03:44:40=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer e00ef2d6-d1b9-4e5c-86d9-851a70fe5751
+Json Content:{"name":"Reports - Tamper - Select Group Filter - With Include Option","test_case":{"id":52877856}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 03:44:40=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 03:55:14=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 1896c18e-ead2-467c-a3fa-109f3d9d585e
+Json Content:{"name":"kendo Conversion - Mach 10 Battery Status Report - Date &amp; Time Format - MM/DD/YYYY HH:MM: SS (24-hr)","test_case":{"id":53377710}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 03:55:14=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-20-2022 03:56:25========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16311948&parentType=test-cycle
+Auth Header:bearer 0b73e2e2-64a3-48fc-a006-8c910a8bbe68
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-20-2022 03:59:45=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 0c985d5c-2b4b-4117-8a11-ff1c307aa040
+Json Content:{"name":"Reports - Endpoint Maintenance - Customer Inquiry link - Validation","test_case":{"id":53762971}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 03:59:45=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 04:27:43=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 85ffe171-1bba-42f2-b173-d1d8a25b79db
+Json Content:{"name":"Permissions Validation_Mobile MMR_Meter Reading_Neptune Field Service PM_On","test_case":{"id":24860198}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 04:27:43=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 04:42:09=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 7e9670d7-8332-49ce-835f-dc6d1a590495
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_User Management Left Navigation ","test_case":{"id":27354959}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 04:42:09=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 04:43:13=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 13babcd1-982e-465e-ab73-8b631694a7ea
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Notifications Left Navigation","test_case":{"id":27354962}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 04:43:13=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 04:48:52=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer c78c5759-a50d-4ceb-9731-a1ff111c0486
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Alerts Notifications Top Navigation ","test_case":{"id":27354966}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 04:48:52=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 04:53:54=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer eb236f19-d56d-418e-bfaf-437a6aec1346
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Create Neptune User","test_case":{"id":27354973}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 04:53:54=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 04:56:21=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 83a18424-7f2a-4094-a3d1-ee68a009de79
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Deactivate User","test_case":{"id":27354977}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 04:56:21=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:04:33=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer dba29498-c189-4f41-b6a5-9254cdcec435
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Search Utility","test_case":{"id":27354986}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:04:33=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:07:36=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 9834cb88-f30f-4a4d-b5a0-0a777e2ea3f6
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Deactivate Utility","test_case":{"id":27354990}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:07:36=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-20-2022 05:13:37========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer 31cff2f2-66ab-4434-9882-a9c6c2d7ac10
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:24:55=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer ceef506e-2db1-48b1-9363-c36dc8014419
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Send Config for Collector","test_case":{"id":27355018}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:24:55=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-20-2022 05:26:03========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 04bf33f4-63ad-47dc-9565-567149f11288
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:35:43=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 64e70b2d-bc57-4286-86be-baf523972752
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Notifications","test_case":{"id":27355036}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:35:43=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:39:13=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 58146025-f3ff-458f-8aaf-2642666b6f32
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_View Reader","test_case":{"id":27355042}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:39:13=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:50:05=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 2cbc430e-9ece-4322-b7d6-b22168a4fe01
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Edit Account Details","test_case":{"id":27355060}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:50:05=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-20-2022 05:52:41========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/27355065
+Auth Header:bearer 24fd97cb-f484-4352-9884-6abd46d3f020
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:55:41=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 460a5a62-5b7c-4ec8-93ff-5f96fb834c41
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Assign MIU (s)","test_case":{"id":27355070}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:55:41=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-20-2022 05:57:03========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16311948&parentType=test-cycle
+Auth Header:bearer 755b88ea-d498-4acd-88d2-6b5d3aff54d0
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-20-2022 05:57:52=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer f2579706-501b-4395-b62a-918c2edcbb1b
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Edit Alert Configurations ","test_case":{"id":27355073}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 05:57:52=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:01:17=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 72af146a-598b-4880-b366-5657895d520b
+Json Content:{"name":"Roles &amp; Permissions - UI - Neptune System Administrator - Permission Validation-Mobile MMR - Sync Unassigned Routes - Disabled","test_case":{"id":27448314}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:01:17=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:01:50=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 5402f573-c685-48c9-94a6-8fb1b46b9d68
+Json Content:{"name":"Roles &amp; Permissions - UI - Neptune System Administrator - Permission Validation-Create -Mobile MMR - Sync Unassigned Routes - Enabled","test_case":{"id":27448315}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:01:50=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:02:24=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 6c78227b-eded-4807-b238-fa2bd04a883b
+Json Content:{"name":"Roles &amp; Permissions - UI - Created New Role  - Permission Validation- Mobile MMR - Sync Unassigned Routes - Enabled","test_case":{"id":27448316}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:02:24=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:03:06=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer da1482f5-845e-43d4-9a7b-d086dac274d5
+Json Content:{"name":"Roles &amp; Permissions - UI - Created New Role  - Permission Validation- Mobile MMR - Sync Unassigned Routes - Disabled","test_case":{"id":27448317}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:03:06=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:03:38=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer ee5394ea-c1bc-4385-9474-2749fe99f8b2
+Json Content:{"name":"Roles &amp; Permissions - UI - Utility Administrator - Permission Validation-Mobile MMR - Sync Unassigned Routes - Displayed ","test_case":{"id":27448318}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:03:38=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:04:45=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 052bc475-d7f4-4be2-b9ef-292216af3e98
+Json Content:{"name":"Roles &amp; Permissions - UI - Utility Administrator - Permission Validation-Mobile MMR - Sync Unassigned Routes - Disabled","test_case":{"id":27448320}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:04:45=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:05:51=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer a211788d-0de8-415a-b6e4-ff148dd18d6f
+Json Content:{"name":"Roles &amp; Permissions - UI - Neptune Customer Service Rep - Permission Validation-Mobile MMR - Sync Unassigned Routes - Enabled","test_case":{"id":27448322}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:05:51=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:06:55=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer b0bfe9ed-f541-4142-8874-2543907dc2db
+Json Content:{"name":"Roles &amp; Permissions - UI - Neptune Field Service PM - Permission Validation-Mobile MMR - Sync Unassigned Routes - Enabled","test_case":{"id":27448324}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:06:55=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:13:24=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 2e39abc3-b870-451a-9f8e-da9ae8cdcdec
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Export  File Menu Item ","test_case":{"id":27481404}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:13:24=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-20-2022 06:15:44========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16311948&parentType=test-cycle
+Auth Header:bearer e1c147d2-ff26-41d7-9eda-3324084c3ea4
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:16:41=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 20942ecd-5e41-4354-a922-3d4e75f60a88
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Create Account Menu Item ","test_case":{"id":27481407}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:16:41=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-20-2022 06:25:35=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer bdf5d1dc-714b-4096-bbed-9cff45b3ab2b
+Json Content:{"name":"Roles and Permissions_Utility Meter Reader_Route Management Menu Item","test_case":{"id":27481415}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-20-2022 06:25:35=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================

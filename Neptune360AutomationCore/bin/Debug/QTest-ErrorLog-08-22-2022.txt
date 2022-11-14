@@ -1,0 +1,95 @@
+==============Error in http POST request=======08-22-2022 03:02:25=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer a31b0a08-24f5-4a5d-857e-c0a27a6244f5
+Json Content:{"name":"Reports - Productivity - Table Settings - Modify Column Visibility - Changes Are Specific To Current User","test_case":{"id":52825625}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-22-2022 03:02:25=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-22-2022 03:09:10========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 465404b1-2f89-4865-9ac6-400ce16a2f53
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 03:09:13========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 465404b1-2f89-4865-9ac6-400ce16a2f53
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 03:09:16========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 465404b1-2f89-4865-9ac6-400ce16a2f53
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 03:09:18========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 465404b1-2f89-4865-9ac6-400ce16a2f53
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 03:09:21========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer 465404b1-2f89-4865-9ac6-400ce16a2f53
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 05:07:53========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer da004937-b36a-4d24-bd09-1c841b80257c
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 05:07:58========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer da004937-b36a-4d24-bd09-1c841b80257c
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 05:08:01========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer da004937-b36a-4d24-bd09-1c841b80257c
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 05:08:03========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer da004937-b36a-4d24-bd09-1c841b80257c
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http GET request=======08-22-2022 05:08:05========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/52825629
+Auth Header:bearer da004937-b36a-4d24-bd09-1c841b80257c
+Exception Message:The remote server returned an error: (404) Not Found.
+=========================================================================
+==============Error in http POST request=======08-22-2022 05:38:59=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 264e9582-4d55-4a64-9549-6dd40aaf13dc
+Json Content:{"name":"Kendo Conversion - Comments Report - Table settings","test_case":{"id":53389672}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-22-2022 05:38:59=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-22-2022 06:17:33=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer c790bb2c-d8aa-4abe-a142-10beee900644
+Json Content:{"name":"Reports - Days of Consecutive Flow (AMI) Flag based - Customer Inquiry link - Validation","test_case":{"id":53762987}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-22-2022 06:17:33=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-22-2022 06:41:40========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer b47f0d99-efe9-42b1-8936-305ac0916c33
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-22-2022 06:44:30=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer e026208a-56c6-47d2-a968-cd3baa0e570b
+Json Content:{"name":"Reports - Soft Disconnect Report - Customer Inquiry link Validation","test_case":{"id":53762989}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-22-2022 06:44:30=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================

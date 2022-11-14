@@ -1,0 +1,180 @@
+==============Error in http GET request=======08-17-2022 08:10:23========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16311948&parentType=test-cycle
+Auth Header:bearer 9f4ff5b6-8d8d-4daf-9120-22eb598be691
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-17-2022 08:17:15========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/51123818
+Auth Header:bearer 4c63a9a1-4345-4518-925a-fb7a4d9a660f
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-17-2022 08:50:12========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cycles?parentId=1064446&parentType=release
+Auth Header:bearer 6ed30cbd-5bc5-4ceb-9aa7-e1794ae39272
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-17-2022 09:34:44========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer 45b7ddd5-c2bf-4af5-b871-999900566b33
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-17-2022 11:49:58=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer fa68650e-0ba9-4c51-b7ac-23f2ced13769
+Json Content:{"name":"Reports_Comments_Date Picker_From Date_Max Range","test_case":{"id":43377949}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 11:49:58=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-17-2022 01:14:15========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16311948&parentType=test-cycle
+Auth Header:bearer 7ae95404-4274-4902-a3f7-d24e601b726e
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-17-2022 01:28:48=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer d3d5cd27-2647-4cc3-aa76-84b778c19f1f
+Json Content:{"name":"Report_Endpoint Maintenance_Detailed Report_Never Received KPI_Map Icon_Click","test_case":{"id":45116593}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 01:28:48=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 03:08:12=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 294ed521-664b-4cc3-86c8-815518d130bd
+Json Content:{"name":"Report_Days of Consecutive Flow (AMI)_Detailed Report_Flow Type","test_case":{"id":45935705}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 03:08:12=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 03:17:30=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer ee8cd94f-54a7-4159-8d62-f35bf7e7bcfc
+Json Content:{"name":"Report_Invalid Report_Detailed Report_Group Filter_One Group Select","test_case":{"id":46046804}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 03:17:30=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 03:22:44=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 14b0f2ed-5d6d-415c-b940-2f92c9df9152
+Json Content:{"name":"Reports - Active SIM Associated to Undefined Site - Role - New permission","test_case":{"id":48466932}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 03:22:44=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 03:25:02=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 943bd315-74b8-4505-9cb6-f1f717ed7a9b
+Json Content:{"name":"Reports - Active SIM with No Site - Role - New permission","test_case":{"id":48524101}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 03:25:02=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 04:51:34=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer cbb60a84-7124-4ee9-9fd7-3ac4da307e41
+Json Content:{"name":"Report_Days of  Consecutive Flow (AMI) - Consumption Based Report_Shared Icon Export Excel_Display","test_case":{"id":50109483}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 04:51:34=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 06:08:52=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 6ae10f43-05cf-4916-a80a-d446506229a3
+Json Content:{"name":"Report_Days of  Consecutive Flow (AMI) - Consumption Based Report_Detailed Report_Last Read Date","test_case":{"id":50252708}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 06:08:52=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 06:30:26=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 1700b9d2-a332-4361-8ff0-e6028873f7b6
+Json Content:{"name":"Report_Days of Consecutive Flow (AMI) - Consumption Based_Detailed Report_Route Filter_One Route Select","test_case":{"id":50253625}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 06:30:27=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 06:44:32=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer 59af9050-98f8-4c1e-b4fc-8bb40572c9ff
+Json Content:{"name":"Reports - Active SIM with No site - Table settings - &apos;OK&apos; Button","test_case":{"id":50625076}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 06:44:32=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 06:45:54=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer d5590992-e8b1-4863-9753-689ac4d4b891
+Json Content:{"name":"Reports - Reverse Flow - Table settings - &apos;Select ALL&apos; Button","test_case":{"id":50642334}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 06:45:54=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-17-2022 09:22:59========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 55279f64-6ff4-41ab-b99d-efa2ff13e2bf
+Exception Message:The remote server returned an error: (502) Bad Gateway.
+=========================================================================
+==============Error in http GET request=======08-17-2022 09:23:01========
+URL:https://ntg.qtestnet.com/api/v3/projects
+Auth Header:bearer 55279f64-6ff4-41ab-b99d-efa2ff13e2bf
+Exception Message:The remote server returned an error: (502) Bad Gateway.
+=========================================================================
+==============Error in http POST request=======08-17-2022 09:30:23=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer f5f8d6f9-448d-42e4-a29e-bb7c5289f323
+Json Content:{"name":"Reports - Endpoint Consumption - Table settings - &apos;OK&apos; Button","test_case":{"id":50643333}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 09:30:23=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 09:33:21=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer a1c80c8f-7624-4b27-b9d3-11039545c66a
+Json Content:{"name":"Reports - Endpoint Consumption - Table settings - &apos;X&apos; Button","test_case":{"id":50643334}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 09:33:21=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-17-2022 09:36:22=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite
+Auth Header:bearer baa4e863-8af2-44a3-98fa-524d47b619c3
+Json Content:{"name":"Reports - Endpoint Consumption - Table settings - &apos;Deselect ALL&apos; button","test_case":{"id":50643335}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-17-2022 09:36:22=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======08-17-2022 11:39:59========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 41d7a398-2269-4951-ae20-33e96a1a1655
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================

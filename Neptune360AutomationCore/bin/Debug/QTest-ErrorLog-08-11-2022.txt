@@ -1,0 +1,5 @@
+==============Error in http GET request=======08-11-2022 06:03:14========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 0d641da2-6621-4837-a183-5e6772551644
+Exception Message:Unable to connect to the remote server
+=========================================================================

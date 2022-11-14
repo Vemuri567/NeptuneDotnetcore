@@ -1,0 +1,82 @@
+==============Error in http POST request=======06-23-2022 12:35:13=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+=========================================================================
+==============Error in http POST request=======06-23-2022 01:19:46=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+=========================================================================
+==============Error in http GET request=======06-23-2022 03:22:10========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9040204&parentType=test-suite&pageSize=999
+Auth Header:bearer f7fa809f-6d39-48ee-94aa-47cf7f2c55d7
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:22:11=======
+URL:https://ntg.qtestnet.com/oauth/revoke
+Auth Header:bearer f7fa809f-6d39-48ee-94aa-47cf7f2c55d7
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:22:11=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:27:50=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:33:27=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:39:07=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:44:45=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:50:23=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 03:56:01=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http POST request=======06-23-2022 11:04:54=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+=========================================================================

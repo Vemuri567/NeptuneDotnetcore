@@ -1,0 +1,60 @@
+==============Error in http GET request=======10-11-2022 10:30:01========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite&pageSize=999
+Auth Header:bearer ba513f19-2ac4-4a89-8f30-fb924a4338b4
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-11-2022 10:32:06========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite&pageSize=999
+Auth Header:bearer ba513f19-2ac4-4a89-8f30-fb924a4338b4
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-11-2022 10:33:56========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite&pageSize=999
+Auth Header:bearer ba513f19-2ac4-4a89-8f30-fb924a4338b4
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-11-2022 10:35:56========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite&pageSize=999
+Auth Header:bearer ba513f19-2ac4-4a89-8f30-fb924a4338b4
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-11-2022 01:18:48========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/39718760
+Auth Header:bearer c01c88cd-48c3-44c9-89c9-92f587755385
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======10-11-2022 02:40:16=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite
+Auth Header:bearer 656de283-8632-40ad-a072-90e885ec3c8b
+Json Content:{"name":"API Deployment_Breadcrumbs_Display","test_case":{"id":34748454}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================10-11-2022 02:40:16=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======10-11-2022 02:43:50=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite
+Auth Header:bearer 46f269bd-7a99-4bd0-9be4-e77d03354fa7
+Json Content:{"name":"API Deployment_Edit Bundles Permission_Enabled_Edit Button_Display","test_case":{"id":34748459}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================10-11-2022 02:43:50=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======10-11-2022 10:16:29========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/24895578
+Auth Header:bearer 3acab2ac-b655-454a-9d4d-2b074e64b03b
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======10-11-2022 10:31:18=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite
+Auth Header:bearer 11d46382-8b09-44b2-9bcf-806cb609be07
+Json Content:{"name":"Online Help Access - Help Contents Menu Item - Import","test_case":{"id":24895578}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================10-11-2022 10:31:18=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================

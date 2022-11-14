@@ -1,0 +1,35 @@
+==============Error in http GET request=======08-09-2022 02:59:12========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16192359&parentType=test-cycle
+Auth Header:bearer f316506c-21cd-46b9-b45b-5e246471c10b
+Exception Message:Unable to connect to the remote server
+=========================================================================
+==============Error in http POST request=======08-09-2022 05:30:56=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9245702&parentType=test-suite
+Auth Header:bearer fcd5ff15-9358-4912-aa28-83885bd70089
+Json Content:{"name":"Contextual Help Access - Authentication - Notification","test_case":{"id":25966554}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-09-2022 05:30:56=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-09-2022 11:00:36=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9245702&parentType=test-suite
+Auth Header:bearer 5cc073a8-f7f5-405f-9d54-a34886db051b
+Json Content:{"name":"Left Navigation - Utility Management - Alert Configuration - Events List - Event Selected - Options - Blank ","test_case":{"id":28873573}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-09-2022 11:00:36=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======08-09-2022 06:48:13=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9245702&parentType=test-suite
+Auth Header:bearer 511c0b7c-3076-46c3-9501-8ecc19a46f98
+Json Content:{"name":"Reports - Days of Consumption (AMR) - Include/Exclude Groups filter - Not Displayed - View Groups Permissions - Disabled","test_case":{"id":43423851}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-09-2022 06:48:13=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================

@@ -1,0 +1,10 @@
+==============Error in http POST request=======07-21-2022 01:22:58=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite
+Auth Header:bearer 3e55391f-ec81-4c5c-8a18-ff27b9ba8afb
+Json Content:{"name":"Reports - Invalid Readings - Cycle/Route - Data Validation","test_case":{"id":31884224}}
+Content Type:application/json
+Exception Message:The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+=========================================================================
+==========================07-21-2022 01:22:58=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================

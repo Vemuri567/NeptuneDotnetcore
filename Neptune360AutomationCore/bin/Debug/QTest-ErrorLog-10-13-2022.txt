@@ -1,0 +1,50 @@
+==============Error in http POST request=======10-13-2022 01:07:34=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite
+Auth Header:bearer d82ec1f3-04e2-4f13-b4c0-d84eac063e7b
+Json Content:{"name":"Route Management -View Routes - Route Name - Column Heading","test_case":{"id":26991090}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================10-13-2022 01:07:34=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http POST request=======10-13-2022 01:21:46=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite
+Auth Header:bearer 0ec90c37-d4c5-4a10-990f-f50634e0dda2
+Json Content:{"name":"Utility Management - Close Route on Export Setting - Edit Utility","test_case":{"id":27667130}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================10-13-2022 01:21:46=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======10-13-2022 09:29:32========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/31067115
+Auth Header:bearer 692708dd-2872-4b0a-8fa7-82eeda8eae69
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======10-13-2022 09:47:36========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite&pageSize=999
+Auth Header:bearer 111bcd9f-3c42-4023-8c50-050b51bc884d
+Exception Message:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+=========================================================================
+==============Error in http GET request=======10-13-2022 10:46:42========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite&pageSize=999
+Auth Header:bearer c2108503-5384-4cfb-a405-e06e9bb9e3fb
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-13-2022 11:07:01========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite&pageSize=999
+Auth Header:bearer f5b68178-2e92-4a0f-a6b6-53de0fe3a794
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http GET request=======10-13-2022 11:29:27========
+URL:https://ntg.qtestnet.com/api/v3/projects
+Auth Header:bearer 79da0b9c-ba17-4b92-8816-28d6837add4f
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-13-2022 05:55:25========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer ca0c13bf-5e5c-4bd4-ae27-bc5912241969
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================

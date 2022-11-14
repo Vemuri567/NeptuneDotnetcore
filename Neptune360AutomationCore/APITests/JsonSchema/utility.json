@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$ref": "#/definitions/Welcome",
+  "definitions": {
+    "Welcome": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "utilities": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Utility"
+          }
+        }
+      },
+      "required": [
+        "utilities"
+      ],
+      "title": "Welcome"
+    },
+    "Utility": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "site_id": {
+          "type": "string",
+          "format": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "address_2": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string",
+          "format": "integer"
+        },
+        "time_zone": {
+          "type": "string"
+        },
+        "unit_of_measure": {
+          "type": "string"
+        },
+        "office": {
+          "type": "string"
+        },
+        "is_dst_enabled": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "address",
+        "address_2",
+        "city",
+        "is_dst_enabled",
+        "name",
+        "office",
+        "site_id",
+        "state",
+        "time_zone",
+        "unit_of_measure",
+        "zip"
+      ],
+      "title": "Utility"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360AutomationCore\obj\Debug\net6.0\Neptune360Automation.csproj.AssemblyReference.cache
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360AutomationCore\obj\Debug\net6.0\Neptune360Automation.csproj.ResolveComReference.cache
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360AutomationCore\obj\Debug\net6.0\Neptune360Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360AutomationCore\obj\Debug\net6.0\Neptune360Automation.AssemblyInfoInputs.cache
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360AutomationCore\obj\Debug\net6.0\Neptune360Automation.AssemblyInfo.cs
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360AutomationCore\obj\Debug\net6.0\Neptune360Automation.csproj.CoreCompileInputs.cache
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360Automation\obj\Debug\net6.0\Neptune360Automation.csproj.AssemblyReference.cache
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360Automation\obj\Debug\net6.0\Neptune360Automation.csproj.ResolveComReference.cache
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360Automation\obj\Debug\net6.0\Neptune360Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360Automation\obj\Debug\net6.0\Neptune360Automation.AssemblyInfoInputs.cache
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360Automation\obj\Debug\net6.0\Neptune360Automation.AssemblyInfo.cs
+C:\Users\Naveen Kumar\source\repos\Neptune360AutomationCore\Neptune360Automation\obj\Debug\net6.0\Neptune360Automation.csproj.CoreCompileInputs.cache

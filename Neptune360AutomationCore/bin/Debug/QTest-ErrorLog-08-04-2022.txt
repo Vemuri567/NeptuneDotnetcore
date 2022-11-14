@@ -1,0 +1,15 @@
+==============Error in http GET request=======08-04-2022 05:56:08========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16192359&parentType=test-cycle
+Auth Header:bearer 527b0c86-83ff-43ed-a3f8-89b9d12f0d78
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http POST request=======08-04-2022 06:53:59=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite
+Auth Header:bearer 84435cd6-b4da-4084-b18e-09df6e1e23c3
+Json Content:{"name":"Report_Days of Consecutive Flow (AMI)_Detailed Report_UOM ","test_case":{"id":45934609}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================08-04-2022 06:53:59=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================

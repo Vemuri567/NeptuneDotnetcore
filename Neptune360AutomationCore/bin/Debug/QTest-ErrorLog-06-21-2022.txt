@@ -1,0 +1,70 @@
+==============Error in http POST request=======06-21-2022 01:31:58=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:34:48=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:43:07=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:45:26=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:46:08=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:46:49=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:48:20=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:53:52=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 01:54:55=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune@123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote server returned an error: (400) Bad Request.
+=========================================================================
+==============Error in http POST request=======06-21-2022 03:02:19=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================

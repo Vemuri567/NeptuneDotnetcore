@@ -1,0 +1,15 @@
+==============Error in http GET request=======08-06-2022 03:06:18========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 08d94610-5c5e-4f9a-8876-03f4a462fad1
+Exception Message:The request was aborted: The request was canceled.
+=========================================================================
+==============Error in http GET request=======08-06-2022 03:08:08========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 08d94610-5c5e-4f9a-8876-03f4a462fad1
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-06-2022 10:32:00========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 9ef5084a-fee7-4556-ab70-8f3071705210
+Exception Message:The remote server returned an error: (500) Internal Server Error.
+=========================================================================

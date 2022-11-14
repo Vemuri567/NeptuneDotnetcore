@@ -1,0 +1,14 @@
+==============Error in http POST request=======06-28-2022 12:27:42=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+=========================================================================
+==============Error in http POST request=======06-28-2022 09:16:46=======
+URL:https://ntg.qtestnet.com/oauth/token?grant_type=password&username=nkumar@neptunetg.com&password=Neptune123
+Auth Header:Basic bGluaC1sb2dpbjo=
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:application/x-www-form-urlencoded
+Exception Message:The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+=========================================================================

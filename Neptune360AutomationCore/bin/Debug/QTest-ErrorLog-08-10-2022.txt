@@ -1,0 +1,55 @@
+==============Error in http GET request=======08-10-2022 01:26:46========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer ff37cb51-c3c3-4500-be2f-65deaa40b1cc
+Exception Message:Unable to connect to the remote server
+=========================================================================
+==============Error in http GET request=======08-10-2022 10:01:23========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 7d85bc9f-e9fb-4b9c-ae2b-cef6ba85d4a0
+Exception Message:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+=========================================================================
+==============Error in http GET request=======08-10-2022 10:27:13========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 7d85bc9f-e9fb-4b9c-ae2b-cef6ba85d4a0
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-10-2022 10:55:18========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 5329aac1-966a-444d-a54d-c1ab504fc5fd
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-10-2022 11:29:24========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 76069d41-d235-4455-b04d-fba6eddecbf1
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-10-2022 11:31:16========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer d0baf21f-85fa-4fdc-8be5-5db1d0bbf9e0
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-10-2022 11:51:19========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 7f3943b4-e671-4fc1-9789-911959046e8b
+Exception Message:Unable to connect to the remote server
+=========================================================================
+==============Error in http GET request=======08-10-2022 01:34:11========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 630a3a11-2f07-4986-bf41-61a8f5ce1fb0
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-10-2022 01:36:12========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer 630a3a11-2f07-4986-bf41-61a8f5ce1fb0
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-10-2022 01:38:17========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/25614196
+Auth Header:bearer db179dfc-2920-4545-b04d-2d90d3a20e1d
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-10-2022 01:40:02========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9165716&parentType=test-suite&pageSize=999
+Auth Header:bearer efde5b23-f8cd-4ab2-8827-eec570dddc2a
+Exception Message:The operation has timed out
+=========================================================================

@@ -1,0 +1,70 @@
+==============Error in http GET request=======08-23-2022 10:19:13========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 63fd8f96-f85a-4e3f-aaa6-bd2c21e8800a
+Exception Message:The request was aborted: The request was canceled.
+=========================================================================
+==============Error in http GET request=======08-23-2022 10:21:04========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 63fd8f96-f85a-4e3f-aaa6-bd2c21e8800a
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-23-2022 10:22:51========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 63fd8f96-f85a-4e3f-aaa6-bd2c21e8800a
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-23-2022 10:24:44========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 63fd8f96-f85a-4e3f-aaa6-bd2c21e8800a
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-23-2022 10:27:43========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 211ea09f-5936-4fa9-baf3-78466395172a
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-23-2022 10:43:32========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer 529a5421-2da2-4c60-80fa-fa6474a02833
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======08-23-2022 10:47:32========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer 88775dbf-8d49-4465-8504-dbf97685c04e
+Exception Message:Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+=========================================================================
+==============Error in http GET request=======08-23-2022 12:54:19========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cycles?parentId=1064446&parentType=release
+Auth Header:bearer 65c07895-98e1-457f-996c-98b7e46d4c80
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-23-2022 01:36:00========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9275605&parentType=test-suite&pageSize=999
+Auth Header:bearer b983bb4e-b0ea-4753-a10c-860c01e1a3ab
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-23-2022 01:44:21========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-suites?parentId=16311948&parentType=test-cycle
+Auth Header:bearer 725fc371-69f4-4219-bce9-329edde07d3a
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-23-2022 01:51:11========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cycles?parentId=1064446&parentType=release
+Auth Header:bearer 87807eef-69e5-4597-884a-b8ea3f30ed4a
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-23-2022 02:55:07========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer ccc9f35e-6cfd-48ef-8661-3498ecf58a6f
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-23-2022 02:58:17========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer aed2ff9f-5ee1-48e0-957f-4b5912fdaa7a
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==============Error in http GET request=======08-23-2022 10:19:20========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer ab570374-099b-4340-a16e-8aceb9f544c5
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================

@@ -1,0 +1,15 @@
+==============Error in http POST request=======10-08-2022 02:26:25=======
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512829&parentType=test-suite
+Auth Header:bearer 2e0786fb-c8b7-4a2e-b378-1d76eb902fad
+Json Content:{"name":"Contextual Help Access - Print Help Documents - Dashboard - Complete Readings Detail Report","test_case":{"id":26058313}}
+Content Type:application/json
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================
+==========================10-08-2022 02:26:25=======
+Exception Message:Unexpected character encountered while parsing value: P. Path '', line 0, position 0.
+=========================================================================
+==============Error in http GET request=======10-08-2022 02:29:09========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer 80eee52e-2f92-46c2-96cf-b0673de3bab0
+Exception Message:The remote server returned an error: (401) Unauthorized.
+=========================================================================

@@ -1,0 +1,30 @@
+==============Error in http GET request=======10-16-2022 10:21:25========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer 5e374d6f-e8f0-4e92-b6c2-7a5acdd5f86f
+Exception Message:The request was aborted: The request was canceled.
+=========================================================================
+==============Error in http GET request=======10-16-2022 10:29:45========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer be88bf66-0ee8-4bd3-8ccb-ad24c611267c
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-16-2022 10:33:06========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer 63741f43-1362-41dd-b73d-e2498c73d3d5
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-16-2022 10:35:00========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer 63741f43-1362-41dd-b73d-e2498c73d3d5
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-16-2022 10:36:56========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer 63741f43-1362-41dd-b73d-e2498c73d3d5
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-16-2022 10:41:48========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer dfef869d-63c0-4daf-82a1-570508eadd26
+Exception Message:The operation has timed out
+=========================================================================

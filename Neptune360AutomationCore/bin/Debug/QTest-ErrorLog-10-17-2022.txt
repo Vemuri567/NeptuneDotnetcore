@@ -1,0 +1,15 @@
+==============Error in http GET request=======10-17-2022 10:26:21========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer 62a7301a-f9c1-47e5-ae7f-303fa54e9d54
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-17-2022 10:28:08========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer 62a7301a-f9c1-47e5-ae7f-303fa54e9d54
+Exception Message:The operation has timed out
+=========================================================================
+==============Error in http GET request=======10-17-2022 10:36:51========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-runs?parentId=9512574&parentType=test-suite&pageSize=999
+Auth Header:bearer e35dcab8-fc60-4011-a4d6-ab109ca771cc
+Exception Message:The operation has timed out
+=========================================================================

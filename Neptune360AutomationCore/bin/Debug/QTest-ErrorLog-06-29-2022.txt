@@ -1,0 +1,17 @@
+==============Error in http GET request=======06-29-2022 01:55:24========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/releases
+Auth Header:bearer 033f0c8e-cb8f-4fd1-b57a-a8230d3c44f4
+Exception Message:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+=========================================================================
+==============Error in http POST request=======06-29-2022 01:55:25=======
+URL:https://ntg.qtestnet.com/oauth/revoke
+Auth Header:bearer 033f0c8e-cb8f-4fd1-b57a-a8230d3c44f4
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
+==============Error in http GET request=======06-29-2022 10:23:35========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/28909446
+Auth Header:bearer e8f9bfba-ebb5-4780-aaec-83b64ba4a8d0
+Exception Message:The remote server returned an error: (500) Internal Server Error.
+=========================================================================

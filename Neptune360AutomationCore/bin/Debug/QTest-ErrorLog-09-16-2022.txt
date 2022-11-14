@@ -1,0 +1,12 @@
+==============Error in http GET request=======09-16-2022 01:58:33========
+URL:https://ntg.qtestnet.com/api/v3/projects/29637/test-cases/40929279/test-steps
+Auth Header:bearer 6e8c3771-2fc1-4c90-ad48-f89d48e7f354
+Exception Message:Unable to connect to the remote server
+=========================================================================
+==============Error in http POST request=======09-16-2022 01:58:33=======
+URL:https://ntg.qtestnet.com/oauth/revoke
+Auth Header:bearer 6e8c3771-2fc1-4c90-ad48-f89d48e7f354
+Json Content:{"Cache-Control":"no-cache"}
+Content Type:
+Exception Message:The remote name could not be resolved: 'ntg.qtestnet.com'
+=========================================================================
