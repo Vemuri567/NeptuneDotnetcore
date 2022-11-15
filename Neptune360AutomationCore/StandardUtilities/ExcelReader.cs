@@ -125,6 +125,7 @@ namespace Neptune360UIAutomation
             catch (Exception ex)
             {
                 //Report.Error(ex.Message.ToString() + "Stack Trace:" + ex.StackTrace.ToString());
+                Console.WriteLine("Excelfilenot loading");
                 throw ex;
             }
 
