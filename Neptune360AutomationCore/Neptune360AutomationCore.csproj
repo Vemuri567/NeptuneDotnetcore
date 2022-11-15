@@ -50,4 +50,10 @@
     <PackageReference Include="System.Windows.Extensions" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="extent-config.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
