@@ -21,7 +21,7 @@ namespace Neptune360UIAutomation
 			}
 			catch(Exception ex)
 			{
-                Console.WriteLine(ex.Message);
+                throw new Exception(ex.Message);
                 return null;
 			}
 		}
