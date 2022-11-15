@@ -46,6 +46,9 @@ namespace Neptune360UIAutomation
                             appdatapath = appdatapath.Replace("Roaming", "");
 
                             ChromeOptions options = new ChromeOptions();
+                            options.AddArguments("--no-sandbox");
+                            options.AddArguments("--disabled-dev-shm-usage");
+                            options.AddArguments("--headless");
                             options.AcceptInsecureCertificates = true;
                             options.AddArgument("--ignore-ssl-errors=yes");
                             options.AddArgument("--ignore-certificate-errors");
