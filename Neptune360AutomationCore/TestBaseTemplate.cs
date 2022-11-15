@@ -30,6 +30,7 @@ namespace Neptune360UIAutomation
         #region Initialize Global variables
         public static IWebDriver driver = null;
         public static bool initReport = false;
+        public string currentExcelDirectoryPath = AppDomain.CurrentDomain.BaseDirectory.ToString();
         public string currentDirectoryPath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "");
         public static string currentDirectoryPath1 = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "");
         public DateTime startDate = DateTime.Now;
@@ -267,7 +268,7 @@ namespace Neptune360UIAutomation
             DataTable dt = new DataTable();
             var dictionary = new Dictionary<string, string>();
 
-            dt = ExcelReader.ReadExcelUsingNPOI(currentDirectoryPath + testDataFile, testDataSheet);
+            dt = ExcelReader.ReadExcelUsingNPOI(Path.Combine(currentExcelDirectoryPath, testDataFile), testDataSheet);
             int indexVal = dt.AsEnumerable().Select(row => row.Field<string>("TCId") == testCaseId).ToList().FindIndex(col => col);
 
             for (int i = 0; i < dt.Columns.Count; i++)
