@@ -12,7 +12,7 @@ namespace Neptune360AutomationCore.StandardUtilities
         }
         private static JObject GetTestDataJsonObject()
         {
-            string path = Path.Combine(GetProjectRootDirectory(), "TestData","AppSettings.json");
+            string path = Path.Combine(GetProjectRootDirectory(), "TestData","AppSettings.Json");
             JObject jObject = JObject.Parse(File.ReadAllText(path));
             return jObject;
         }
