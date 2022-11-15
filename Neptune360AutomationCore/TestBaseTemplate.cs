@@ -70,20 +70,11 @@ namespace Neptune360UIAutomation
         [OneTimeSetUp]
         protected void Setup()
         {
-            Console.WriteLine("testcase started");
-            try
-            {
                 if (qTestFlag.ToUpper() == "N" && initReport != true)
                 {
                     ReporterFactory.AttachReport();
                     initReport = true;
-                }
-            }
-            catch(Exception e)
-            {
-                Console.WriteLine("qtetsfalg.toupper is not running");
-            }
-            
+                } 
             try
             {
                 Console.WriteLine("testcase started");
