@@ -55,7 +55,7 @@ namespace Neptune360UIAutomation
                             options.AddArgument(string.Format("user-data-dir={0}", appdatapath + "Google\\Chrome\\User Data"));
                             options.AddUserProfilePreference("download.prompt_for_download", true);
                             options.AddArguments("--disable-extensions");
-                            uniqueInstanceWebDriver = new ChromeDriver(options);
+                            uniqueInstanceWebDriver = new ChromeDriver(ChromeDriverService.CreateDefaultService(),options);
 
                             ////zalenium changes -start
                             //ChromeOptions options = new ChromeOptions();
