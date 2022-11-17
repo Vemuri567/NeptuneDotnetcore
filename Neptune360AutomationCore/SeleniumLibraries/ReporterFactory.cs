@@ -18,10 +18,10 @@ namespace Neptune360UIAutomation
         public static ExtentReports objExtentReport = null;
         public static string failureReason = "";
 
-        private static string currentDirectoryPath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "");
+        private static string currentDirectoryPath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0/", "");
         private static string testReportName = Utilities.ReadConfigFile("TestReportName");
         private static IWebDriver driver = WebDriverFactory.getWebDriver();
-        private static string filePath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "");
+        private static string filePath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0/", "");
         public static DataTable resultSummary = new DataTable();
         public static string testCaseName = "";
         public static string currentDateAndTime = "TestResults-" + DateTime.Now.ToString().Replace(":", "").Replace(" ", "").Replace("/", "-");

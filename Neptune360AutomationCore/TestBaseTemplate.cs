@@ -98,10 +98,10 @@ namespace Neptune360UIAutomation
         {
             try
             {
-                if (Directory.Exists(AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "") + "Results/" + ReporterFactory.currentDateAndTime))
+                if (Directory.Exists(AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0/", "") + "Results/" + ReporterFactory.currentDateAndTime))
                 {
-                    string reportPath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "") + "Results/" + ReporterFactory.currentDateAndTime + "/index.html";
-                    string copiedReportPath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "") + "Results/index.html";
+                    string reportPath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0/", "") + "Results/" + ReporterFactory.currentDateAndTime + "/index.html";
+                    string copiedReportPath = AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0/", "") + "Results/index.html";
                     string updatedReportPath = copiedReportPath.Replace("index", "TestReport" + ReporterFactory.currentDateAndTime.Replace("TestResults", ""));
                     // System.IO.File.Move(AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "")+ "Results\\" + ReporterFactory.currentDateAndTime+"\\index.html", AppDomain.CurrentDomain.BaseDirectory.ToString().Replace("net6.0\\", "")+ "Results\\" + ReporterFactory.currentDateAndTime + "\\TestReport.html");
                     File.Copy(reportPath, copiedReportPath, true);
