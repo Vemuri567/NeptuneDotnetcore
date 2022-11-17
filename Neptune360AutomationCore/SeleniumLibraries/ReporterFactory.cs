@@ -51,8 +51,8 @@ namespace Neptune360UIAutomation
         /// </summary>
         public static void AttachReport()
         {
-            Directory.CreateDirectory(currentDirectoryPath + "\\Results\\" + currentDateAndTime + "\\");
-            var htmlReporter = new ExtentHtmlReporter(currentDirectoryPath + "Results\\" + currentDateAndTime + "\\" + testReportName);
+            Directory.CreateDirectory(currentDirectoryPath + "/Results/" + currentDateAndTime + "/");
+            var htmlReporter = new ExtentHtmlReporter(currentDirectoryPath + "Results/" + currentDateAndTime + "/" + testReportName);
             htmlReporter.LoadConfig(currentDirectoryPath + "extent-config.xml");
             objExtentReport = new ExtentReports();
             objExtentReport.AddSystemInfo("Host Name", Dns.GetHostName());
