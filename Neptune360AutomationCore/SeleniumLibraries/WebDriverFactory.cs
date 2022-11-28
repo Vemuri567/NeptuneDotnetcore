@@ -55,7 +55,7 @@ namespace Neptune360UIAutomation
                             options.AddArgument(string.Format("user-data-dir={0}", appdatapath + "Google\\Chrome\\User Data"));
                             options.AddUserProfilePreference("download.prompt_for_download", true);
                             options.AddArguments("--disable-extensions");
-                            uniqueInstanceWebDriver = new ChromeDriver(ChromeDriverService.CreateDefaultService(),options);
+                            //uniqueInstanceWebDriver = new ChromeDriver(ChromeDriverService.CreateDefaultService(),options);
 
                             ////zalenium changes -start
                             //ChromeOptions options = new ChromeOptions();
@@ -65,7 +65,7 @@ namespace Neptune360UIAutomation
                             //options.AddArgument(string.Format("user-data-dir={0}", appdatapath + "Google\\Chrome\\User Data"));
                             //options.AddUserProfilePreference("download.prompt_for_download", true);
                             //options.AddArguments("--disable-extensions");
-                            //uniqueInstanceWebDriver = new RemoteWebDriver(new Uri("http://zalenium.qa.neptune360.com/wd/hub"), options);
+                            uniqueInstanceWebDriver = new RemoteWebDriver(new Uri("http://44.209.11.137:80"), options);
                             ////zalenium changes -end
                             uniqueInstanceWebDriver.Manage().Window.Maximize();
                             break;
